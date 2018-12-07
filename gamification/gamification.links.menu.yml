@@ -1,0 +1,7 @@
+gamification.gamification_config_form:
+  title: 'GamificationConfigForm'
+  route_name: gamification.gamification_config_form
+  description: 'Configuración del modulo gamificación'
+  parent: system.admin_config_system
+  weight: 99
+

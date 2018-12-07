@@ -1,0 +1,11 @@
+
+gamification.gamification_config_form:
+  path: '/admin/config/gamification/gamificationconfig'
+  defaults:
+    _form: '\Drupal\gamification\Form\GamificationConfigForm'
+    _title: 'GamificationConfigForm'
+  requirements:
+    _permission: 'access administration pages'
+  options:
+    _admin_route: TRUE
+

@@ -1,0 +1,7 @@
+name: 'Gamification'
+type: module
+description: 'Modulo de Gamificación'
+core: 8.x
+package: 'Gamification'
+
+configure: gamification.gamification_config_form
